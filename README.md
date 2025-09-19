@@ -28,4 +28,4 @@ The platform covers academic resources, student engagement, lost & found, facult
 - **Cross-Browser Access**: Works across all major browsers.
 - **Scalable Architecture**: Designed to grow with university needs.
 
----
+
