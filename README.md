@@ -29,6 +29,3 @@ The platform covers academic resources, student engagement, lost & found, facult
 - **Scalable Architecture**: Designed to grow with university needs.
 
 ---
-
-## 📂 Repository Structure
-
